@@ -1,0 +1,105 @@
+*{
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+}
+/* section no:01 */
+#section1{
+background-color: rgb(255, 248, 243);
+}
+#navbar{
+display: flex;
+justify-content: space-between;
+
+}
+.editmary{
+Font-weight: 800;
+Font-size: 45px;
+text-align: left;
+margin-left: 300px;
+}
+.editr{
+color: rgb(253, 110, 10);
+
+}
+.editr:hover{
+color: blue;
+}
+.blog{
+Font-weight: 400;
+Font-size: 20px;
+color: rgb(71, 71, 71);
+text-align: left;
+/* margin-top: 20px; */
+}
+.blog1{
+Font-weight: 700;
+Font-size: 20px;
+color: rgb(255, 255, 255);
+background-color: rgb(253, 110, 10);
+border-radius: 5px;
+border: none;
+padding: 18px 36px;
+
+}
+.blogflex{
+display: flex;
+align-items: center;
+gap: 50px;
+margin-right: 200px;
+/* margin-top: 50px; */
+}
+/* banner */
+.banner{
+display: flex;
+justify-content: space-between;
+}
+.bannerpara1{
+Font-weight: 600;
+Font-size: 45px;
+color: rgb(71, 71, 71);
+}
+.bannerh1{
+Font-weight: 700;
+Font-size: 85px;
+color: rgb(24, 24, 24);
+
+}
+.bannerpara2{
+Font-weight: 400;
+Font-size: 18px;
+color:rgb(117, 117, 117) ;
+}
+.bannerbtn{
+color: rgb(255, 255, 255);
+Font-weight: 700;
+Font-size: 20px;
+background-color: rgb(253, 110, 10);
+padding: 18px;
+border: none;
+border-radius: 5px;
+}
+.bannerbtn1{
+color: rgb(253, 110, 10);
+Font-weight: 700;
+Font-size: 20px;
+margin-left: 20px;
+border: 2px solid  rgb(253, 110, 10);
+background-color: rgb(255, 248, 243);
+padding: 18px;
+border-radius: 5px;
+}
+.bannerdevo{
+margin-right: 70px;
+margin-top: -130px;
+margin-left: 50px;
+}
+.bannerimg{
+background-image:url(images/header_bg.png) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position:bottom left;
+
+}
+.bannerwritting{
+width: 585px;
+}
+/* section no:02 */
