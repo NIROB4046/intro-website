@@ -190,3 +190,56 @@ font-size:16px ;
 color:rgb(117, 117, 117) ;
 
 }
+ /* section no:04 */
+.Resume-all{
+display: flex;
+max-width: 1200px;
+margin-left: 300px;
+margin-top: 50px;
+
+
+
+}
+.sec4h1{
+color: rgb(24, 24, 24);
+text-align: center;
+font-weight: 700;
+font-size:35px ;
+margin-top: 100px;
+
+}
+.eduh4{
+color: rgb(71, 71, 71);
+font-weight: 700;
+font-size:25px ;
+}
+.edutitle{
+color: rgb(117, 117, 117);
+font-weight: 600;
+font-size:20px ;
+}
+.edupara{
+font-weight: 400;
+font-size:16px ;
+color: rgb(117, 117, 117);
+
+}
+.sec4btn{
+color: rgb(255, 255, 255);
+font-weight: 700;
+font-size:20px;
+background-color: rgb(253, 110, 10);
+padding:10px ;
+border-radius: 5px;
+border: none;
+}
+.sec4btn:hover{
+background-color: powderblue;
+color: black;
+}
+
+.sec4btn-center{
+margin-top: 50px;
+text-align: center;
+}
+/* section no:05*/
