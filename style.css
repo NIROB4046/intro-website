@@ -194,8 +194,9 @@ color:rgb(117, 117, 117) ;
 .Resume-all{
 display: flex;
 max-width: 1200px;
-margin-left: 300px;
+margin-left: 250px;
 margin-top: 50px;
+gap: 20px;
 
 
 
@@ -212,11 +213,13 @@ margin-top: 100px;
 color: rgb(71, 71, 71);
 font-weight: 700;
 font-size:25px ;
+margin-bottom: -10px;
 }
 .edutitle{
 color: rgb(117, 117, 117);
 font-weight: 600;
 font-size:20px ;
+margin-bottom: 20px;
 }
 .edupara{
 font-weight: 400;
