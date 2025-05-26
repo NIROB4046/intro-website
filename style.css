@@ -103,3 +103,49 @@ background-position:bottom left;
 width: 585px;
 }
 /* section no:02 */
+#section2{
+width: 1120px;
+height: 550px;
+background-color: rgb(255, 248, 243);
+margin: 96px 230px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.about{
+width: 827px;
+height:288px ;
+background-color: rgb(255, 255, 255);
+
+}
+.abouth1{
+text-align:center ;
+font-weight: 700;
+font-size: 35px;
+color: rgb(24, 24, 24);
+}
+.aboutpara{
+color:rgb(117, 117, 117) ;
+font-weight: 400;
+font-size: 18px;
+text-align:center ;
+
+}
+.items{
+display: flex;
+justify-content: space-around;
+}
+.item1{
+color: rgb(117, 117, 117);
+font-weight: 400;
+font-size: 18px;
+padding-left: 100px;
+
+}
+.item2{
+color: rgb(117, 117, 117);
+font-weight: 700;
+font-size: 30px;
+padding: 0px;
+
+}
